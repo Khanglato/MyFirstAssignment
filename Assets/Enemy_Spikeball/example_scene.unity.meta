@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f266ef02fe15d6841a24d54ed32bba6d
+timeCreated: 1524100815
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116938
+  packageName: "Shoot\xB4em up Enemy Spikeball"
+  packageVersion: 1.0
+  assetPath: Assets/Enemy_Spikeball/example_scene.unity
+  uploadId: 524625

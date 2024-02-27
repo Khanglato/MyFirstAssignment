@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 121f2239afce0514784d851deb4c2b28
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116938
+  packageName: "Shoot\xB4em up Enemy Spikeball"
+  packageVersion: 1.0
+  assetPath: Assets/Enemy_Spikeball/example_sceneSettings.lighting
+  uploadId: 524625
